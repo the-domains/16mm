@@ -1,0 +1,28 @@
+name: 16mm
+favicon: null
+layout_spectrum: 0.8671418705489486
+typography_spectrum: 0.39503531414084136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7125060947146267
+  lightness: 0.5111220749095082
+  saturation: 0.682431222172454
+  rhythmicContrast: 0.9816686799749732
+purpose: []
